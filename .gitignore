@@ -4,6 +4,7 @@
 /out/
 /build/
 /.idea/
+*.iml
 
 # Log file
 *.log

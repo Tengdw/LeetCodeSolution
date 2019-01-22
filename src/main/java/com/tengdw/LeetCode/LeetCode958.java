@@ -1,8 +1,9 @@
 package com.tengdw.LeetCode;
 
-import com.tengdw.DataStructure.LinkedList.LinkedList;
 import com.tengdw.LeetCode.utils.TreeNode;
 import org.junit.Test;
+
+import java.util.LinkedList;
 
 /**
  * 二叉树的完全性检验
